@@ -1,0 +1,34 @@
+{
+    "apps": {
+        "whatson": {
+            "appID": "whatson",
+            "appName": "WhatsOn",
+            "ghUrl": "https://github.com/xjarlie/whatson-v2"
+        }
+    },
+    "feedback": {
+        "whatson": {
+            "ebeca6f0-7bc0-4d45-8c34-f6b8d3f8b5ed": {
+                "title": "search issue",
+                "description": "search no worky idk why sorry"
+            },
+            "9abb9c91-00ad-402a-b1f2-34317d832c86": {
+                "title": "this is a title",
+                "description": "descriptionnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn so much",
+                "timestamp": 1652519554962
+            },
+            "1179aaa2-68f7-444f-a6aa-20e2e0d44ede": {
+                "1179aaa2-68f7-444f-a6aa-20e2e0d44ede": {
+                    "title": "another titleee",
+                    "description": "wasdwasdwasdwasdwasdwasd",
+                    "timestamp": 1652519828554
+                }
+            },
+            "98655d7d-24ce-42df-b600-377060ac4ff1": {
+                "title": "esdfesferasghtrs",
+                "description": "htshtfshgfshbnfgsnfgsngf nfgs bnfgs nfgs",
+                "timestamp": 1652519858282
+            }
+        }
+    }
+}

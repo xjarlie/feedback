@@ -1,0 +1,33 @@
+{
+  "name": "feedback",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon --ext js,ejs,json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xjarlie/feedback.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xjarlie/feedback/issues"
+  },
+  "homepage": "https://github.com/xjarlie/feedback#readme",
+  "dependencies": {
+    "@octokit/core": "^3.6.0",
+    "body-parser": "^1.20.0",
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.7",
+    "express": "^4.18.1",
+    "path": "^0.12.7",
+    "x-jsondb": "^1.0.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
